@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.div-two-up {
+  border: 2px solid lightgray;
+  padding-bottom: 3%;
+  padding-left: 6%;
+  padding-right: 6%;
+  height: 100px;
+  position: relative;
+  width: 100px;
+  margin-left: 100px;
+}
