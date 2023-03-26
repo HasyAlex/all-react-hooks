@@ -12,6 +12,7 @@ function NumberIncrementer() {
       <h3>Use State - Number Incrementer</h3>
       {"\n"}
       {counter}
+      {"\n"}
       <button onClick={increment}>Incrementer</button>
     </div>
   )
